@@ -1,0 +1,9 @@
+setup.py
+LibraryClass.egg-info/PKG-INFO
+LibraryClass.egg-info/SOURCES.txt
+LibraryClass.egg-info/dependency_links.txt
+LibraryClass.egg-info/top_level.txt
+libraryClass/__init__.py
+libraryClass/library.py
+libraryClass/library_inits/book.py
+libraryClass/library_inits/reader.py
